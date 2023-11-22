@@ -1,0 +1,23 @@
+	group	medium	control	Sample_name
+X01	Bmedium	negative_control	negative_control	Bmedium_a
+X02	Bmedium	negative_control	negative_control	Bmedium_b
+X03	B	beech	treatment	Bpopulation_a
+X04	B	beech	treatment	Bpopulation_c
+X05	B	beech	treatment	Bpopulation_d
+X06	B	beech	treatment	Bpopulation_e
+X07	BB	beech	treatment	BB_b
+X08	BB	beech	treatment	BB_g
+X09	BB	beech	treatment	BB_i
+X10	BB	beech	treatment	BB_j
+X11	BS	spruce	treatment	BS_e
+X12	BS	spruce	treatment	BS_g
+X13	BS	spruce	treatment	BS_h
+X14	BS	spruce	treatment	BS_i
+X23	Smedium	spruce	negative_control	Smedium_a
+X24	Smedium	spruce	negative_control	Smedium_b
+X45	mock	positive_control	positive_control	Mock_comm_1
+X46	mock	positive_control	positive_control	Mock_comm_2
+negC	negative_control		negative_control	negC
+posC	positive_control		positive_control	posC
+negContr	negative_control		negative_control	negContr
+posContr	positive_control		positive_control	posContr
