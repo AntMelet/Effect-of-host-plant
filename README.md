@@ -78,3 +78,7 @@ Behaviour: this file provides a record of the behaviours observed in the nests
 
 2) Fungal community analysis:
 This folder contains the sequences obtained form metabarcoding the fungal community associated with X. sasenii, the reference sequences used for taxonomic identification, the script used to process the raw sequences and the results of the script.
+
+Host plant_bioinformatic script.docx :
+This file details the script used to process the raw sequences. The script uses Usearch v11.
+The script produces a number of files during the process, these files are not included in this folder. Only the final results are included in the form of 3 files: 
