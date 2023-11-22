@@ -6,7 +6,9 @@ We bred beetles in different experimental groups. We measured various traits of 
 
 In this repository, you will find the data we collected. The files are organised in two folders:
 
-Life history and behaviour:
+1) Life history and behaviour:
+This folder contains the raw data related to the preference assays, life history traits and behaviours of the beetles. The data are organised in different files
+
 Preference: beetles were offered the choice to nest in beech or spruce artificial medium. Out of 65 beetles, 27 died and did not nest in any medium
 
 SuccessRate: this file provides a record of the success or failure of all nests that were initiated during the study
@@ -74,3 +76,5 @@ Behaviour: this file provides a record of the behaviours observed in the nests
 -	adult_social: number of times adult females were observed displaying any social behaviour
 -	adult_total: total number of adult behaviours recorded
 
+2) Fungal community analysis:
+This folder contains the sequences obtained form metabarcoding the fungal community associated with X. sasenii, the reference sequences used for taxonomic identification, the script used to process the raw sequences and the results of the script.
