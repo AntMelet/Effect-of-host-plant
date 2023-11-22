@@ -79,8 +79,19 @@ Behaviour: this file provides a record of the behaviours observed in the nests
 2) Fungal community analysis:
 This folder contains the sequences obtained form metabarcoding the fungal community associated with X. sasenii, the reference sequences used for taxonomic identification, the script used to process the raw sequences and the results of the script.
 
-Host plant_bioinformatic script.docx :
-This file details the script used to process the raw sequences. The script uses Usearch v11.
-The script produces a number of files during the process, these files are not included in this folder. Only the final results are included in the form of 3 files: HostPlantLSUmetadata; HostPlantLSUtax and HostPlantLSUzotus_table
+Host plant_bioinformatic script.docx: this file details the script used to process the raw sequences. The script uses Usearch v11. The script produces a number of files during the process, these files are not included in this folder. Only the final results are included in the form of 2 files: HostPlantLSUtax and HostPlantLSUzotus_table
 
+HostPlantLSUtax: this file associates each zotu to a taxonomic output. Not every zotu is identified to the species level
+
+HostPlantLSUzotu_table: this file associates the zotu and samples. Each cell indicates how many sequences of every zotu were found in every sample
+
+HostPlantLSUmetadata:  this file was manually constructed, to associate each sample to the metadata relevant for this study
+
+LSUprimers.docx: this file details the forward and reverse primers used for this study
+
+ref_LSU_sequences.fasta: this files provides the first database used for the taxonomic assignation of the sequences
+
+sequences_NCBI_tax.fa: this file provides the second database used for the taxonomic assignation of the sequences
+
+Sequences: this folder contains all raw sequences, including the sequences from the samples, positive and negative controls
 
