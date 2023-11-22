@@ -81,4 +81,6 @@ This folder contains the sequences obtained form metabarcoding the fungal commun
 
 Host plant_bioinformatic script.docx :
 This file details the script used to process the raw sequences. The script uses Usearch v11.
-The script produces a number of files during the process, these files are not included in this folder. Only the final results are included in the form of 3 files: 
+The script produces a number of files during the process, these files are not included in this folder. Only the final results are included in the form of 3 files: HostPlantLSUmetadata; HostPlantLSUtax and HostPlantLSUzotus_table
+
+
