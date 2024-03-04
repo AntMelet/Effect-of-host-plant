@@ -4,7 +4,7 @@ Description:
 In this study, we investigated the effect of the host tree on the life history, behaviour and fungal community of an ambrosia beetle, Xyleborinus saxesenii.
 We bred beetles in different experimental groups. We measured various traits of the life history of the beetles and their behaviour. We also sampled the nest material to identify the fungi that develop in X. saxesenii nests.
 
-In this repository, you will find the data we collected. The files are organised in two folders:
+In this repository, you will find the data we collected. The files are organised in three folders:
 
 1) Life history and behaviour:
 This folder contains the raw data related to the preference assays, life history traits and behaviours of the beetles. The data are organised in different files
@@ -92,6 +92,20 @@ LSUprimers.docx: this file details the forward and reverse primers used for this
 ref_LSU_sequences.fasta: this files provides the first database used for the taxonomic assignation of the sequences
 
 sequences_NCBI_tax.fa: this file provides the second database used for the taxonomic assignation of the sequences
+
+3) Growth of fungi in different media:
+This folder contains the data from a pilot experiment. We tested the growth of some fungi commonly associated with X. saxesenii, in artificial media that contains a lot of nutrients or not, and were autoclaved or not.
+
+Growth of fungi in different media: Growth of the fungi, 5 days after inoculation.
+ID: a unique code to identify each assay
+Group: each group had a code. This code has the informations about the fungus, the presence of nutrients and the autoclaving of the medium before inoculation
+Fungus: the fungus being tested
+Autoclaved: was the medium autoclaved before the inoculation of fungus
+Nutrients: does the medium contain additional nutrients, or only sawdust, agar and water
+Treatment: each treatment had a code. This code has the informations about the presence of nutrients and the autoclaving of the medium before inoculation
+Medium: the plant used to produce the sawdust in the medium
+Replicate: a number identifing the replicate for the different groups
+Area: surface covered by the inoculated fungus after 5 days of growth. Surface expressed in square millimeters
 
 Sequences: this folder contains all raw sequences, including the sequences from the samples, positive and negative controls
 
