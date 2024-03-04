@@ -93,6 +93,8 @@ ref_LSU_sequences.fasta: this files provides the first database used for the tax
 
 sequences_NCBI_tax.fa: this file provides the second database used for the taxonomic assignation of the sequences
 
+Sequences: this folder contains all raw sequences, including the sequences from the samples, positive and negative controls
+
 3) Growth of fungi in different media:
 This folder contains the data from a pilot experiment. We tested the growth of some fungi commonly associated with X. saxesenii, in artificial media that contains a lot of nutrients or not, and were autoclaved or not.
 
@@ -107,5 +109,4 @@ Medium: the plant used to produce the sawdust in the medium
 Replicate: a number identifing the replicate for the different groups
 Area: surface covered by the inoculated fungus after 5 days of growth. Surface expressed in square millimeters
 
-Sequences: this folder contains all raw sequences, including the sequences from the samples, positive and negative controls
 
